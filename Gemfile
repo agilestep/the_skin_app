@@ -73,3 +73,4 @@ end
 
 gem "figaro"
 gem 'pg'
+gem 'devise'
