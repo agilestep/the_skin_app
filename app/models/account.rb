@@ -5,4 +5,6 @@ class Account <  ActiveRecord::Base
          :recoverable, :rememberable, :validatable
   self.table_name = "accounts"
 
+  has_many :images
+
 end
