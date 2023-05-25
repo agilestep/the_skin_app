@@ -14,3 +14,14 @@ Account.create!({first_name: "Serghei",
                 account_type: 1,
                 email: 'goodemail@gmail.com'})
 User.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
+
+
+image = Image.new({name: "Nice Image"})
+
+# like this
+File.open('/home/serghei/projects/skin/the_skin_app/public/download.jpg') do |f|
+  image.storage = f
+end
+
+image.save
+
