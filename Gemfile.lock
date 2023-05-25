@@ -323,6 +323,7 @@ DEPENDENCIES
   figaro
   importmap-rails
   jbuilder
+  mini_magick
   pg
   puma (~> 5.0)
   pundit
