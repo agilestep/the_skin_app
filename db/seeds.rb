@@ -13,3 +13,4 @@ Account.create!({first_name: "Serghei",
                 nick_name: "skyrunner",
                 account_type: 1,
                 email: 'goodemail@gmail.com'})
+User.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?

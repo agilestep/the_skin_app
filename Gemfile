@@ -74,3 +74,8 @@ end
 gem "figaro"
 gem 'pg'
 gem 'devise'
+gem 'activeadmin'
+gem 'cancancan'
+gem 'sass-rails'
+gem 'draper'
+gem 'pundit'
