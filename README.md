@@ -9,6 +9,6 @@ By observing our skin regularly, we can detect early signs of issues like skin c
 Monitoring also promotes overall skin health, sun protection, and self-care. 
 Prioritizing skin monitoring empowers us to take control of our well-being and enjoy a healthy complexion.
 
-The goal of this project is to make a step towards the healthier future for all of us!.
+This project is a step towards the healthier future for all of us!.
 
 Cheers! 
